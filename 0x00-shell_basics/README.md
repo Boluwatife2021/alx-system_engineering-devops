@@ -1,1 +1,1 @@
-a script to answer
+A script to see working directory
